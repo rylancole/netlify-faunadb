@@ -1,0 +1,19 @@
+{
+  "name": "netlify-faunadb",
+  "version": "1.0.0",
+  "description": "Experimenting with Netlify and FaunaDB to host a servless dynamic webpage ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rylancole/netlify-faunadb.git"
+  },
+  "author": "rylancole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rylancole/netlify-faunadb/issues"
+  },
+  "homepage": "https://github.com/rylancole/netlify-faunadb#readme"
+}
